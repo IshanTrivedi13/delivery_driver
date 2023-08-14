@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Package
   - Destination
+  - Boost
+  - Bumpers
   layers:
   - Default
   - TransparentFX
