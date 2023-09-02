@@ -10,5 +10,3 @@ Instructions:
 6. Crashes will slow you down
 
 GOOD LUCK DRIVER!!!
-
-(PS : no pause menu so alt+f4 to quit)
